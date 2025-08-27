@@ -1,2 +1,3 @@
-# PyCon-Greece-Predicting-avocado-ripeness
-This repository contains the Python Notebook file used during my presentation 'Predicting avocado ripeness' in  PyCon Greece 2025
+# PyCon Greece | Forecasting avocado ripeness
+This repository contains the complete Python notebook file used during my presentation 'Forecasting avocado ripeness: when less is more in a prediction model' in  PyCon Greece 2025.
+
